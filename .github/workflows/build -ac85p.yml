@@ -1,4 +1,4 @@
-name: build-RT-AC85P
+name: build-K2P-USB
 
 on:
   workflow_dispatch:
